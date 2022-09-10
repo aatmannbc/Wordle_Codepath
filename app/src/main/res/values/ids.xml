@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Guess2" type="id" />
+    <item name="Guess1_val" type="id" />
+    <item name="Guess3Check_val" type="id" />
+    <item name="Guess3_val" type="id" />
+    <item name="Guess1Check_val" type="id" />
+    <item name="Guess2Check_val" type="id" />
+    <item name="Guess2_val" type="id" />
+    <item name="Guess1" type="id" />
+    <item name="button_main" type="id" />
+    <item name="et_guess" type="id" />
+    <item name="Guess2Check" type="id" />
+    <item name="Guess1Check" type="id" />
+    <item name="Guess3" type="id" />
+    <item name="Guess3Check" type="id" />
+    <item name="RightWord" type="id" />
+</resources>
