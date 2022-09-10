@@ -19,7 +19,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-https://imgur.com/73Krr16
+https://i.imgur.com/73Krr16.gif
+
 GIF created with Kap 
 
 
