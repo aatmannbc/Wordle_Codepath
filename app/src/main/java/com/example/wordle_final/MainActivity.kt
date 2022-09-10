@@ -81,38 +81,6 @@ class MainActivity : AppCompatActivity() {
 
             }
 
-//
-//              text1.apply { text=word1}
-
-
-
-//                Right = checkGuess (word1, wordToGuess)
-//
-//                text1.apply { text=word1}
-//
-//
-//
-//                }else if (counter = 2) (
-//
-//                word2 textInput.text.toString().uppercase()
-//
-//                correct checkGuess (word2, wordToGuess) textBox3.opply text word2}
-//
-//            textBox4.apply(text correct) }else if (counter = 3) {
-//
-//            words textInput.text.toString().uppercase()
-//
-//            correct checkGuess (words, wordToGuess) textBox5.apply(text words) textBoxe.apply(text-correct)
-//
-//            else (
-//
-////cightword.opply text wordToGuess rightward visibility View.VISIBLE Log.i("Counter", msg "No more guesses 2")
-//
-//                countere
-//
-////rightward.visibility View.VISIBLE
-//
-//        checkGuess()
 
         }
     }
